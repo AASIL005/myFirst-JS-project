@@ -1,0 +1,41 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:aqua;
+    text-align: center;
+}
+div{
+    margin: auto;
+    
+}
+#heading {
+    background-color:black;
+    color: whitesmoke;
+    margin: auto;
+    border-radius:5px 50vh ;
+    border-style: dotted;
+}
+#plus {
+    background-color: white;
+    color: black;
+    border-color: black;
+    border-radius: 100px;
+    border-style: ridge  ;
+}
+button{
+    background-color:bisque;
+    font-weight: bolder;
+    border-style:solid;
+    border-color: black;
+}
+h2{
+    background-color:black;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    color : black
+}
+a:hover{
+    color : green
+}
