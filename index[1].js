@@ -9,5 +9,6 @@ function plus(){
 }
 function save(){
     savejs.textContent+=count + " - "
-    console.log(count)
+    plusjs.textContent=0
+    count = 0
 }
